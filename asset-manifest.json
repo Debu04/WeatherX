@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/WeatherX/static/css/main.8bc6a3da.chunk.css",
+    "main.js": "/WeatherX/static/js/main.06633d70.chunk.js",
+    "main.js.map": "/WeatherX/static/js/main.06633d70.chunk.js.map",
+    "runtime-main.js": "/WeatherX/static/js/runtime-main.1d26e000.js",
+    "runtime-main.js.map": "/WeatherX/static/js/runtime-main.1d26e000.js.map",
+    "static/js/2.a027210e.chunk.js": "/WeatherX/static/js/2.a027210e.chunk.js",
+    "static/js/2.a027210e.chunk.js.map": "/WeatherX/static/js/2.a027210e.chunk.js.map",
+    "index.html": "/WeatherX/index.html",
+    "static/css/main.8bc6a3da.chunk.css.map": "/WeatherX/static/css/main.8bc6a3da.chunk.css.map",
+    "static/js/2.a027210e.chunk.js.LICENSE.txt": "/WeatherX/static/js/2.a027210e.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/WeatherX/static/media/sky.5baf9421.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d26e000.js",
+    "static/js/2.a027210e.chunk.js",
+    "static/css/main.8bc6a3da.chunk.css",
+    "static/js/main.06633d70.chunk.js"
+  ]
+}
